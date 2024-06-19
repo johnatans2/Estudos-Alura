@@ -1,4 +1,4 @@
-# Alura
+# Estudos Alura
 >Status do Repositório: em desenvolvimento...
 
 Este repositório foi criado com o intuito de eu mesclar todas as tarefas que eu realizar dos cursos da plataforma da **Alura**.
